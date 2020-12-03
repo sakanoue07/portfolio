@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #CC95C0;  
+    background: -webkit-linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); 
+    background: linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); 
+    background-attachment: fixed;
+
+}
+
+a {
+    text-decoration: none;
+    color: #354548
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000
+}
